@@ -1,0 +1,174 @@
+{
+    "audit_id": "SBPOL20221207",
+    "liabilities": [
+        {
+            "audit_partition_id": "SBPOL20221207-GBP",
+            "liability": "0.12",
+            "proof": {
+                "leaf_index": 2,
+                "nonce": "994495a349fe55747cdea1026b1b829f211052ca129c1f1c34964895ac76c447",
+                "witnesses": [
+                    {
+                        "digest": "9f7e9c7e1c70e18c66cb81247e48742cc23fb91232dce2b12502c1d1de75018e",
+                        "liability": "0.871"
+                    },
+                    {
+                        "digest": "896daf1d035d214802e137a6150776deb48bdd3b65a389d2863a0551bcb0b275",
+                        "liability": "994.8595296"
+                    },
+                    {
+                        "digest": "c29ac41079e1e9aa3c9dd2d1e7f3c7f310fd8dfdb5f70da9ea04d9517fb9354b",
+                        "liability": "1000.009"
+                    }
+                ]
+            }
+        },
+        {
+            "audit_partition_id": "SBPOL20221207-GBP",
+            "liability": "0.871",
+            "proof": {
+                "leaf_index": 3,
+                "nonce": "9f7e9c7e1c70e18c66cb81247e48742cc23fb91232dce2b12502c1d1de75018e",
+                "witnesses": [
+                    {
+                        "digest": "994495a349fe55747cdea1026b1b829f211052ca129c1f1c34964895ac76c447",
+                        "liability": "0.12"
+                    },
+                    {
+                        "digest": "896daf1d035d214802e137a6150776deb48bdd3b65a389d2863a0551bcb0b275",
+                        "liability": "994.8595296"
+                    },
+                    {
+                        "digest": "c29ac41079e1e9aa3c9dd2d1e7f3c7f310fd8dfdb5f70da9ea04d9517fb9354b",
+                        "liability": "1000.009"
+                    }
+                ]
+            }
+        },
+        {
+            "audit_partition_id": "SBPOL20221207-GBP",
+            "liability": "0.009",
+            "proof": {
+                "leaf_index": 4,
+                "nonce": "03a0fa38b2d9ff233b0d80fa85cb0817fc9cac5f8ad584252a913ff7474ccb08",
+                "witnesses": [
+                    {
+                        "digest": "78559ff82637e6e32391ea159e783315aa0fc291c6dfa6d987e610e8fb8c2b78",
+                        "liability": "526.95"
+                    },
+                    {
+                        "digest": "e798357a504f0b8f8bcc19783d261982ddadf50a085a8505d6931196f5a8e1d3",
+                        "liability": "473.05"
+                    },
+                    {
+                        "digest": "a2d48ff526219bfff7de2c66804e31831329018de3dae2edd0e5715a7cd416b5",
+                        "liability": "995.8505296"
+                    }
+                ]
+            }
+        },
+        {
+            "audit_partition_id": "SBPOL20221207-CHSB",
+            "liability": "4983.1",
+            "proof": {
+                "leaf_index": 36,
+                "nonce": "d2bd64204fb557876fb82ec714a7a3863d1a80a7738a9c5afc9ef7c64023d656",
+                "witnesses": [
+                    {
+                        "digest": "3759041af03b39ea7587180c4dfcda701d6f0bdbea575a50ab7028e17b11d567",
+                        "liability": "9487.647"
+                    },
+                    {
+                        "digest": "5eca2d291f7c1460f71f9557d98b6dcd21386a948e8510c017cd9b7871cea737",
+                        "liability": "7963.36"
+                    },
+                    {
+                        "digest": "4fb5b74995730c2e5c3d8279dd149e43db2e5c94dd6e3b56c498cf86204e9669",
+                        "liability": "1667.87355"
+                    },
+                    {
+                        "digest": "4d9d692e48105a376984c358563eddb73233b560b5d25a7526d268d721a89e28",
+                        "liability": "58515.392085"
+                    },
+                    {
+                        "digest": "7a515e53fceabca968ebe1583070ea6a323252dc2f86d88426c02b20ef9c6d29",
+                        "liability": "62243.47619"
+                    },
+                    {
+                        "digest": "de54a725e7de3282720f710a5e7e444b5897798b598b13c457a8685702f13b1c",
+                        "liability": "176191.0793825"
+                    }
+                ]
+            }
+        },
+        {
+            "audit_partition_id": "SBPOL20221207-CHSB",
+            "liability": "9487.647",
+            "proof": {
+                "leaf_index": 37,
+                "nonce": "3759041af03b39ea7587180c4dfcda701d6f0bdbea575a50ab7028e17b11d567",
+                "witnesses": [
+                    {
+                        "digest": "d2bd64204fb557876fb82ec714a7a3863d1a80a7738a9c5afc9ef7c64023d656",
+                        "liability": "4983.1"
+                    },
+                    {
+                        "digest": "5eca2d291f7c1460f71f9557d98b6dcd21386a948e8510c017cd9b7871cea737",
+                        "liability": "7963.36"
+                    },
+                    {
+                        "digest": "4fb5b74995730c2e5c3d8279dd149e43db2e5c94dd6e3b56c498cf86204e9669",
+                        "liability": "1667.87355"
+                    },
+                    {
+                        "digest": "4d9d692e48105a376984c358563eddb73233b560b5d25a7526d268d721a89e28",
+                        "liability": "58515.392085"
+                    },
+                    {
+                        "digest": "7a515e53fceabca968ebe1583070ea6a323252dc2f86d88426c02b20ef9c6d29",
+                        "liability": "62243.47619"
+                    },
+                    {
+                        "digest": "de54a725e7de3282720f710a5e7e444b5897798b598b13c457a8685702f13b1c",
+                        "liability": "176191.0793825"
+                    }
+                ]
+            }
+        },
+        {
+            "audit_partition_id": "SBPOL20221207-CHSB",
+            "liability": "5551.253",
+            "proof": {
+                "leaf_index": 38,
+                "nonce": "84452f174aaae95e5d2164742ebcdbe1a30e8072c61636f3cf1ae3398052ccdd",
+                "witnesses": [
+                    {
+                        "digest": "6db4a3102d654ea3a8b68ba4e669f6fd555c963aaf63a8b9b644e5c6dd4e8b09",
+                        "liability": "2412.107"
+                    },
+                    {
+                        "digest": "572ea9cb23617ff7f126c6bf9c8557680eafec731c2ede128d9ad75811942255",
+                        "liability": "14470.747"
+                    },
+                    {
+                        "digest": "4fb5b74995730c2e5c3d8279dd149e43db2e5c94dd6e3b56c498cf86204e9669",
+                        "liability": "1667.87355"
+                    },
+                    {
+                        "digest": "4d9d692e48105a376984c358563eddb73233b560b5d25a7526d268d721a89e28",
+                        "liability": "58515.392085"
+                    },
+                    {
+                        "digest": "7a515e53fceabca968ebe1583070ea6a323252dc2f86d88426c02b20ef9c6d29",
+                        "liability": "62243.47619"
+                    },
+                    {
+                        "digest": "de54a725e7de3282720f710a5e7e444b5897798b598b13c457a8685702f13b1c",
+                        "liability": "176191.0793825"
+                    }
+                ]
+            }
+        }
+    ],
+    "user_id": "20000f995b5305144c082ad3443bf4db"
+}

@@ -1,0 +1,219 @@
+{
+    "audit": {
+        "commitment": {
+            "digest": "3de257e5090a453b789bf1fc28a7aebf8f26105a137a5cf979a9c2e221ce2165"
+        },
+        "id": "SBPOL20221216",
+        "partitions": [
+            {
+                "commitment": {
+                    "digest": "fd990874922023dec6a2d8c176b007e0944b7ac54b2a4808b11df8d3a6f03cc9",
+                    "liability": "0.29746435547497468"
+                },
+                "currency": "AAVE",
+                "id": "SBPOL20221216-AAVE"
+            },
+            {
+                "commitment": {
+                    "digest": "02e74d84cc43bdadf52b520407c07e21d5bf0aa72c0cf19b170b3882dfd883f8",
+                    "liability": "200"
+                },
+                "currency": "AED",
+                "id": "SBPOL20221216-AED"
+            },
+            {
+                "commitment": {
+                    "digest": "8db97f1eac8158e7f492cc867f5135093b1f4b983493e3c6a577e6cac5a07c5b",
+                    "liability": "9.135851767260467825"
+                },
+                "currency": "BNB",
+                "id": "SBPOL20221216-BNB"
+            },
+            {
+                "commitment": {
+                    "digest": "51aa4fc996fe867272fa46a6afb5dae65ca621076fb8ef80ca9a1bf094b40d0c",
+                    "liability": "0.068299143436929695"
+                },
+                "currency": "BTC",
+                "id": "SBPOL20221216-BTC"
+            },
+            {
+                "commitment": {
+                    "digest": "64e71dbb118c6d3ff109201e06f636c74899c8c4fc4f18fd15fc18a4c2c60427",
+                    "liability": "1500171044"
+                },
+                "currency": "CAD",
+                "id": "SBPOL20221216-CAD"
+            },
+            {
+                "commitment": {
+                    "digest": "633a9b64d7168d5c59434ae5e3a6bc61a54decef9a1dd51b6abdf1d4b06b8bc5",
+                    "liability": "104.006794733254"
+                },
+                "currency": "CHF",
+                "id": "SBPOL20221216-CHF"
+            },
+            {
+                "commitment": {
+                    "digest": "f9c74696a80e1d55f1ab844da74b36f6e5301d7924b332627ba2dc9b5c5f64ff",
+                    "liability": "321051.9282075"
+                },
+                "currency": "CHSB",
+                "id": "SBPOL20221216-CHSB"
+            },
+            {
+                "commitment": {
+                    "digest": "6c44f260d33f6d880c471b3d1c7c7bc47aef306b2b450bd0e6746aac5f0315d5",
+                    "liability": "38109.54729767294353035"
+                },
+                "currency": "CHZ",
+                "id": "SBPOL20221216-CHZ"
+            },
+            {
+                "commitment": {
+                    "digest": "8c1bbbacf3eb950c100f98a7b947b7791ab10d5658e96907032c630b10ae7971",
+                    "liability": "0.40476471216687337"
+                },
+                "currency": "COMP",
+                "id": "SBPOL20221216-COMP"
+            },
+            {
+                "commitment": {
+                    "digest": "8990ff9b347cdbf68f0833262fc042ce33cdcc2b25dffc43f06b0e20351f7fa0",
+                    "liability": "10.80474471842773406"
+                },
+                "currency": "DAI",
+                "id": "SBPOL20221216-DAI"
+            },
+            {
+                "commitment": {
+                    "digest": "3a03b2b21eedc8e46ec5228eb52162fe462f150cff4ef3eed7687f7fc2b978ec",
+                    "liability": "5.66379"
+                },
+                "currency": "ENJ",
+                "id": "SBPOL20221216-ENJ"
+            },
+            {
+                "commitment": {
+                    "digest": "1881ce62870913c4e44daf957608b33a57674b74b4bda713b3cebde1935ac8c3",
+                    "liability": "12.88507970531640658"
+                },
+                "currency": "ETH",
+                "id": "SBPOL20221216-ETH"
+            },
+            {
+                "commitment": {
+                    "digest": "8f9def853766a52478f11b7ed97b51f8576671a230acafc4355e79cbddafdb3f",
+                    "liability": "445729.419170170775"
+                },
+                "currency": "EUR",
+                "id": "SBPOL20221216-EUR"
+            },
+            {
+                "commitment": {
+                    "digest": "6be7d15306c98897e4226949ae7f30f60b3b852e9cd56c9299d259809c5da7ca",
+                    "liability": "1995.8595296"
+                },
+                "currency": "GBP",
+                "id": "SBPOL20221216-GBP"
+            },
+            {
+                "commitment": {
+                    "digest": "5a28eefada610c222012d75d311abf6ffdb1e7b6e31a0a3d3b07c158debe3285",
+                    "liability": "6000"
+                },
+                "currency": "HUF",
+                "id": "SBPOL20221216-HUF"
+            },
+            {
+                "commitment": {
+                    "digest": "b0d90c3a1fe06d31c309958e7d8924d32f32225af07b51be8dec755f57179257",
+                    "liability": "3.99078501435471045"
+                },
+                "currency": "KNC",
+                "id": "SBPOL20221216-KNC"
+            },
+            {
+                "commitment": {
+                    "digest": "e676d1703d095124414ec7421b3894aca88c2dcb4995c137e4577fe90d4ad205",
+                    "liability": "0.3037460342371861275"
+                },
+                "currency": "LINK",
+                "id": "SBPOL20221216-LINK"
+            },
+            {
+                "commitment": {
+                    "digest": "a0c7b5f9d87e910ddbc5506a325b9a147475fe880c6f61fe540d9621e7cd6015",
+                    "liability": "0.00572911162359677"
+                },
+                "currency": "PAXG",
+                "id": "SBPOL20221216-PAXG"
+            },
+            {
+                "commitment": {
+                    "digest": "f6b5a269543dca7de279d9791503d910090d719f560baf63963ca4487da1c06d",
+                    "liability": "10"
+                },
+                "currency": "PLN",
+                "id": "SBPOL20221216-PLN"
+            },
+            {
+                "commitment": {
+                    "digest": "6dadcf76019e2106f834eb3fc37d3f24ea3e1e42db8cac91f1a99c7dde316591",
+                    "liability": "112112.95162310589840697"
+                },
+                "currency": "REN",
+                "id": "SBPOL20221216-REN"
+            },
+            {
+                "commitment": {
+                    "digest": "bd23ae9f6de39080ae490555c6ff99d3803d62958f1e06c8d83e00411731beb4",
+                    "liability": "0.53890568450847299"
+                },
+                "currency": "UNI",
+                "id": "SBPOL20221216-UNI"
+            },
+            {
+                "commitment": {
+                    "digest": "ca62271377a5b813daf5ce6ae8f64db7c6b3e93c8d9461ae2f74671dffcd3d68",
+                    "liability": "559441.39290498058898063"
+                },
+                "currency": "USDC",
+                "id": "SBPOL20221216-USDC"
+            },
+            {
+                "commitment": {
+                    "digest": "a7e3e9b12321164a76109cad9c32323e2de7cd06f037b9978384d8b03a977777",
+                    "liability": "1009.129393699348208505"
+                },
+                "currency": "USDT",
+                "id": "SBPOL20221216-USDT"
+            },
+            {
+                "commitment": {
+                    "digest": "b0a4999338420ec79cae6dc127ca540ea19db37260df4076e63248202374ea3c",
+                    "liability": "263846.62279339650580826"
+                },
+                "currency": "UTK",
+                "id": "SBPOL20221216-UTK"
+            },
+            {
+                "commitment": {
+                    "digest": "959dbadc5c8fc2ffb2925bc6d54fa598ffdde76569a72f2d596dea98e1c59806",
+                    "liability": "8.002362323797988735"
+                },
+                "currency": "XRP",
+                "id": "SBPOL20221216-XRP"
+            },
+            {
+                "commitment": {
+                    "digest": "131515117cc5e3478d890fb59691fc8cac229ea55260fef11c5e6e31e9b7942f",
+                    "liability": "200"
+                },
+                "currency": "ZAR",
+                "id": "SBPOL20221216-ZAR"
+            }
+        ],
+        "time": "2022-12-16T06:35:54.596992Z"
+    }
+}

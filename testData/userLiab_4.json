@@ -1,0 +1,478 @@
+{
+    "audit_id": "SBPOL20221216",
+    "liabilities": [
+        {
+            "audit_partition_id": "SBPOL20221216-USDC",
+            "liability": "10.7229763962215384092",
+            "proof": {
+                "leaf_index": 4979,
+                "nonce": "3cfc42d60c10ecd17820719fe73701dad83124b7929b55dfe7a2a26d6aabc564",
+                "witnesses": [
+                    {
+                        "digest": "963efb3d6ccf24b207311ea51b9f06b7b356712f03cee670aacbc875455f7e59",
+                        "liability": "1.54036552"
+                    },
+                    {
+                        "digest": "873d9cbea571fd0a9e87afd0b99c776eb0af404b6636c71cff92661e740b57ae",
+                        "liability": "28.07611165"
+                    },
+                    {
+                        "digest": "c2fb4ebcdba5466af9b245dbf708206c34d691a699e3217d30451eebefaa9601",
+                        "liability": "112.115087674"
+                    },
+                    {
+                        "digest": "a767ed4fc017eb24a5559996e6e251ee851341f19aa15c0e1a5e0f25956c6820",
+                        "liability": "163.689056227"
+                    },
+                    {
+                        "digest": "1196ce8be53e8fef63ddc97545e956647115dd8eef72d1a3dbe007940b0c44bc",
+                        "liability": "264.0358385308"
+                    },
+                    {
+                        "digest": "4b5169a6f300feb5769c75a9f905122f436ae3c0b228f634f041270e3623ed0c",
+                        "liability": "590.2772469276"
+                    },
+                    {
+                        "digest": "7440cb8f96950788bb141802350e29e9508d4556a73bd0b0ff74ee88d3b25bc6",
+                        "liability": "1017.604655932"
+                    },
+                    {
+                        "digest": "cebb83767ec74363c8d79a18ae33f3205c890a81582faa18cd0c9172cbd7a522",
+                        "liability": "2011.3879797548"
+                    },
+                    {
+                        "digest": "f375c972c5b793262d04051fae3dbe6bae12333047090e18a3537a00f3f8d454",
+                        "liability": "4590.48839084931716520375"
+                    },
+                    {
+                        "digest": "b5de1639b384a4d101fcedc19ae1c530a2e0c83ab1cdf493d905757b702e422c",
+                        "liability": "8770.202554130792213314"
+                    },
+                    {
+                        "digest": "ecba64cd3ef0151ccc70039565844dd5d99f3480991f1cb4b9cc2655aa2922d6",
+                        "liability": "17005.5044684658747143294"
+                    },
+                    {
+                        "digest": "c21f62a6c4edae8afcb657dd8be4443eef29e1a3435a746f5ecd1db7d0b4a93e",
+                        "liability": "35233.374097081914455074372"
+                    },
+                    {
+                        "digest": "15455895fe79b8ef709de593c062ae8802b5b6a92d1575cfa91af9f4ef619985",
+                        "liability": "70064.50947897262129576848"
+                    },
+                    {
+                        "digest": "5ee3f0d93a9f511ca48f12dd51c9e6c7da4298205bfd3eb2a1659d35fcac878a",
+                        "liability": "137518.50861093785363614292"
+                    },
+                    {
+                        "digest": "f05dc46cd3cf0b943a0fa4cf173097dcbbea58d77e3e36e7d6413eaafd3c453b",
+                        "liability": "282059.355985929793962387878"
+                    }
+                ]
+            }
+        },
+        {
+            "audit_partition_id": "SBPOL20221216-USDC",
+            "liability": "3.300114042840995017372",
+            "proof": {
+                "leaf_index": 7549,
+                "nonce": "8f87a706c0a65303f1e419ae72a2b2061f5b20b926223f123dfb7725c8880ec4",
+                "witnesses": [
+                    {
+                        "digest": "a988fec2f919c1794025adc80020f5bcca286cadc433b208e96c4b85f416b2d0",
+                        "liability": "43.6483636"
+                    },
+                    {
+                        "digest": "0c431923ea32a1d7bec6b134294bc39244e44e2d9dc977b436932564d3cbc337",
+                        "liability": "5.89724383"
+                    },
+                    {
+                        "digest": "9c6642d115899d63a6e7a853adf5a0d810082e5d54bcc2564643ef2260fddbbb",
+                        "liability": "70.65042941"
+                    },
+                    {
+                        "digest": "b1f2e02e0a93d7dd67fedc6beacc8174548a1407e31db904642e03e32278ebc6",
+                        "liability": "88.180442658"
+                    },
+                    {
+                        "digest": "b82355a897073504b4e98cae76ca45ff42f1eecc60f5ae9b889882a09379dc1f",
+                        "liability": "210.152180107"
+                    },
+                    {
+                        "digest": "b9bab863b47cfe0f2ab3387a48e9ea15bf6fc38c2a226f9c0fe86b3dc8b858e2",
+                        "liability": "414.4400189463"
+                    },
+                    {
+                        "digest": "1980e103ed0bdfb24d792afa7bc5155e104fda5d245ebb679e3f4ae11c6f0977",
+                        "liability": "1499.76398573913"
+                    },
+                    {
+                        "digest": "2f32f4be3c724cab21dedbb96d044c2b653f1da4862b6819cdc7b575ad3b1d23",
+                        "liability": "1744.86868499566"
+                    },
+                    {
+                        "digest": "91ec361feaf5cd4bcb98df50bfc6cb15fba58ac1162bbb0f4dac3c9649109998",
+                        "liability": "3744.620509279233460057"
+                    },
+                    {
+                        "digest": "b615977152a0e6ec859321d350cc87bbd2543f3287c567dfc4023dfdc16accd6",
+                        "liability": "9103.731776352363"
+                    },
+                    {
+                        "digest": "b9f542adee27ce73ddf592eb9edb002e598ff855f9f40e780369b027a089e6fb",
+                        "liability": "18304.120348121387"
+                    },
+                    {
+                        "digest": "6312cabef377328073ed6377c7d6db3c1de99f83a978613d35e5362af4835fe8",
+                        "liability": "34565.64473205840563125635"
+                    },
+                    {
+                        "digest": "15455895fe79b8ef709de593c062ae8802b5b6a92d1575cfa91af9f4ef619985",
+                        "liability": "70064.50947897262129576848"
+                    },
+                    {
+                        "digest": "5ee3f0d93a9f511ca48f12dd51c9e6c7da4298205bfd3eb2a1659d35fcac878a",
+                        "liability": "137518.50861093785363614292"
+                    },
+                    {
+                        "digest": "f05dc46cd3cf0b943a0fa4cf173097dcbbea58d77e3e36e7d6413eaafd3c453b",
+                        "liability": "282059.355985929793962387878"
+                    }
+                ]
+            }
+        },
+        {
+            "audit_partition_id": "SBPOL20221216-USDC",
+            "liability": "55.1039473170956987278",
+            "proof": {
+                "leaf_index": 9986,
+                "nonce": "98661c54394888912fb730673d44d3870a8cb55340771ad31f386ee706c087a3",
+                "witnesses": [
+                    {
+                        "digest": "12ad8039e8cfe5a4ec72f7def56464a5e60df88077c760c13666c9d961caf0ab",
+                        "liability": "2.22336359"
+                    },
+                    {
+                        "digest": "6589386912a15fc46a5fea0daf756b89b6288d65fe34fd32442fc70528e78275",
+                        "liability": "39.50558546"
+                    },
+                    {
+                        "digest": "9c23be79713df8ff2e9e1dbe093199e302220de0bd7c5d122f60f01449319e83",
+                        "liability": "105.966892971"
+                    },
+                    {
+                        "digest": "e34e4e417799174b6f8ccf6b69accb42530f7917b56f3aa7e89c5490efcc3b1f",
+                        "liability": "80.525407021"
+                    },
+                    {
+                        "digest": "dec4ec1794d943c74a0c3ca96fe4a7b7e5640bdab4e199137dd0826af39625f5",
+                        "liability": "177.46666501957"
+                    },
+                    {
+                        "digest": "2a7cf0ef3a990f4d16bd63d2bad042e1828f37ab1cc0ea789580252db3762104",
+                        "liability": "514.8331159169"
+                    },
+                    {
+                        "digest": "d9d474a906b9ffdcc4966b8c3090a2b3bfb8a389059551ea668231134a3a37ef",
+                        "liability": "970.8294552644"
+                    },
+                    {
+                        "digest": "a3af19a55805bd761ea7f3b983b9c3f3f5cfb219c31000b535cf6d417847d616",
+                        "liability": "2182.16875209283"
+                    },
+                    {
+                        "digest": "37b12cfbf3bd33b02d4c379cc0f8bf2927cadcb645b110cac8c944b5e49aa1cb",
+                        "liability": "3870.65026757554"
+                    },
+                    {
+                        "digest": "613f071885d058621dfeeaf0dc592295d653a9f5dd16c3a784018dc4148e32b6",
+                        "liability": "9008.803328951382795706"
+                    },
+                    {
+                        "digest": "ce52c8a647acfd8d83f3543101dc8ac458e60d06dd8e60504936c97db2b17f48",
+                        "liability": "18583.2530829132631"
+                    },
+                    {
+                        "digest": "6c710d6a9bbf3f0ac62cac3e26dbc92d1147380fd53fb5760f81021d1f176ed3",
+                        "liability": "32955.44248674650854170912"
+                    },
+                    {
+                        "digest": "7bdb80b7a64e3c0d437930a862d95732d70bb3712a29ed3fe2610e7672b54f72",
+                        "liability": "68971.7362600983635"
+                    },
+                    {
+                        "digest": "31f490336a3ff38638a8495fb17a7e50750e76089554d69afe4426bf3cb22122",
+                        "liability": "139863.528308112941382099202"
+                    },
+                    {
+                        "digest": "f05dc46cd3cf0b943a0fa4cf173097dcbbea58d77e3e36e7d6413eaafd3c453b",
+                        "liability": "282059.355985929793962387878"
+                    }
+                ]
+            }
+        },
+        {
+            "audit_partition_id": "SBPOL20221216-USDC",
+            "liability": "219.375473532021871435628",
+            "proof": {
+                "leaf_index": 20688,
+                "nonce": "a58fc9cf15eeb17dcfbef3831c563fee824df1e4b5bbd76c756633dbbd92608e",
+                "witnesses": [
+                    {
+                        "digest": "7e51dac64f5e51c6c2bb28f93ca86c8a33e47558222ee7dd534bc32f709da23d",
+                        "liability": "3.45662689"
+                    },
+                    {
+                        "digest": "5b1a7c6cca5337fd43ef170761193138a159a349ecdcebfe46d822ff3fb5b7ca",
+                        "liability": "1.096735204"
+                    },
+                    {
+                        "digest": "3f7825d85147d8eaff45eaab636c93e2af70719e41260a5e585254369c8b29e1",
+                        "liability": "68.83176413"
+                    },
+                    {
+                        "digest": "94c47a65e1b3c4f4cd0b158c1aa6da7bbbab2a5f4b599c9d5fe0f15c840e3096",
+                        "liability": "253.6535432372"
+                    },
+                    {
+                        "digest": "a5bff67822b0eceadee35589bffa2ff04a03d38c440fe9b321d662be9646560e",
+                        "liability": "446.413745264"
+                    },
+                    {
+                        "digest": "846426dcb3fcf416b67ddd90e2c5603cec93c80fbd69e3ac38572f8c432463c4",
+                        "liability": "433.6927152534"
+                    },
+                    {
+                        "digest": "f6c3180d576e386848127a521e7f2790bff97172a2e13dde64e6b0784b28348f",
+                        "liability": "1029.721557035587086545"
+                    },
+                    {
+                        "digest": "0701dda478807567e9131b8e04d874b6be78400dd12b3225392fb0cf7036ea05",
+                        "liability": "2512.5189116663"
+                    },
+                    {
+                        "digest": "1b2e3e6484e6c2a840f96ab7bac700cf34cf448b071b3fef974b7bc26f5786a0",
+                        "liability": "4386.75733343786"
+                    },
+                    {
+                        "digest": "ed7f1fa3ed414108cbfaf0ddfb66c3898f31f1dc35f0ef288e67a0dad786e005",
+                        "liability": "8698.04241400243"
+                    },
+                    {
+                        "digest": "9ed17a6d6e0e67b0d3e050fe64d21bcb2c9fc5bf05ccfb489e14782e3550085c",
+                        "liability": "18685.81129631685"
+                    },
+                    {
+                        "digest": "7e5955c41799b1762bbcc90afcb6204d605eea08cc80d2dd82aff6d1af0425bc",
+                        "liability": "37348.159009116276124564"
+                    },
+                    {
+                        "digest": "3411f7b629d34bc14e9d0a1d83b1f8acb53cf519785f7db2ab20a8860d0dcf67",
+                        "liability": "69658.48199901614361654937"
+                    },
+                    {
+                        "digest": "23ec62e310880ba7bb048a33749dcbca5dab9ad3c41724a359fb510980ad339e",
+                        "liability": "138313.34286182772526329388"
+                    },
+                    {
+                        "digest": "9afe3025b6e75c23e487df96285d6eb49e1490d36bdc739ac973bbd5ce9edcc0",
+                        "liability": "277382.036919050795018242122"
+                    }
+                ]
+            }
+        },
+        {
+            "audit_partition_id": "SBPOL20221216-ETH",
+            "liability": "0.1800901891444102",
+            "proof": {
+                "leaf_index": 3,
+                "nonce": "1c52b2783324db65db1d1f03d40688192cc8cd396e65aae03687a7b943978ed6",
+                "witnesses": [
+                    {
+                        "digest": "b57c056f7533f87114127bc39fe4023d3d86870b9ee15d89f45d2b3a5da5ae05",
+                        "liability": "0.243740458319293641616"
+                    },
+                    {
+                        "digest": "8ee9f87e9709d28955d7300b1c6c8a5729b23827ab605cee6bb0fbb68e7d6872",
+                        "liability": "0.09088391"
+                    },
+                    {
+                        "digest": "75dd68148eac6d8c322a14d49e6008a3578e1dc0cb8d5b9087cf9ade95dac3cc",
+                        "liability": "0.509875780275740791728"
+                    },
+                    {
+                        "digest": "4c3c55dd7b93b4117d780e31b18ae81e353c2dce53bf494842ebf16af87140b2",
+                        "liability": "6.29174238756194087184"
+                    },
+                    {
+                        "digest": "9b9ee3c18178a5d9c94e476810866358eca876d8a8fe3538be0bbaf72e4deda8",
+                        "liability": "5.568746980015021074816"
+                    }
+                ]
+            }
+        },
+        {
+            "audit_partition_id": "SBPOL20221216-ETH",
+            "liability": "0.633699537932992725",
+            "proof": {
+                "leaf_index": 13,
+                "nonce": "0d2ea2e3316614f674c99565896cfb980073e7c2ae47c1fcee0dde45cea4c9c7",
+                "witnesses": [
+                    {
+                        "digest": "5720849e9c5a63f536d64e2826e8b4a85dcb4dc2b29a87234eadbd2c4e8d0350",
+                        "liability": "0.276193278534495657"
+                    },
+                    {
+                        "digest": "66d28ba5b4b5ad395150b0af4e8235259e3ad27b2bc8331476e74181d5fb0b78",
+                        "liability": "2.2050643013237310425"
+                    },
+                    {
+                        "digest": "e9bad90eb0530c2eb5bfb64af687b0690716d0b6e61c62ad167219cda0931807",
+                        "liability": "3.17678526977072144734"
+                    },
+                    {
+                        "digest": "09078979f5bfc5be4c33429ca0cc22a131625439a91d55e248cf041aa5820867",
+                        "liability": "1.024590337739444633344"
+                    },
+                    {
+                        "digest": "9b9ee3c18178a5d9c94e476810866358eca876d8a8fe3538be0bbaf72e4deda8",
+                        "liability": "5.568746980015021074816"
+                    }
+                ]
+            }
+        },
+        {
+            "audit_partition_id": "SBPOL20221216-ETH",
+            "liability": "0.886484048189899075",
+            "proof": {
+                "leaf_index": 24,
+                "nonce": "57158224ff7d175ca875fb79de23a35ebf669c7d10370b82f7bc0701aeebfe03",
+                "witnesses": [
+                    {
+                        "digest": "3656f9f123530fb9556247380fc63a5f32c0dad0879cdf5739d8a6325bdec89c",
+                        "liability": "0.005195692816915531062"
+                    },
+                    {
+                        "digest": "b06b28a2e73e17dabb49028f91ad6811a0e60b799ae2c76fea6837420b166317",
+                        "liability": "0.676203165858657293924"
+                    },
+                    {
+                        "digest": "485eb55cfb832adf1ac5ac98f3af3e72f7baecf629fa9bed521053008048f669",
+                        "liability": "2.910288809245120114"
+                    },
+                    {
+                        "digest": "1e0e2ad9312c9e1b49a152dc5c7a4e1614dca08a66df79bade749dca50174463",
+                        "liability": "1.09057526390442906083"
+                    },
+                    {
+                        "digest": "e4fa3f3bf409c0f4232d6e8bcb403ee59fffca044c04cc86807091e48f8c7a30",
+                        "liability": "7.316332725301385505184"
+                    }
+                ]
+            }
+        },
+        {
+            "audit_partition_id": "SBPOL20221216-CHSB",
+            "liability": "4667.4103081361",
+            "proof": {
+                "leaf_index": 18,
+                "nonce": "fb16353916636647a81d9251e9bc3bed060f2212fde4cefa22d4074ced8aa981",
+                "witnesses": [
+                    {
+                        "digest": "ac201de601234fd3bd2ac94717b147bfefe88b752dc0614968b1a927b5694f66",
+                        "liability": "691.8872265"
+                    },
+                    {
+                        "digest": "16c8ad04436b59937763353f05297fc279c25bb2c178adea057ac7693f4a2f2f",
+                        "liability": "4094.561"
+                    },
+                    {
+                        "digest": "457a479cbe06d2d4762891ad46e4dcb1265e3357d7ba643c90d89e0d010ac29b",
+                        "liability": "2143.16823858"
+                    },
+                    {
+                        "digest": "28f328eecb15c53baa92a0c70b852280fd36e07bbd418fffe2c12bb658d65d2e",
+                        "liability": "41551.4798238639"
+                    },
+                    {
+                        "digest": "fcf568218e02c1efaeb1078b4c1c50d3aa6297b7b06836cf9b432470cbbe8d61",
+                        "liability": "138672.38585714"
+                    },
+                    {
+                        "digest": "af8d0c9ce86546f00aea85187325e161fbfc18b43958babb6f50e28958daa89a",
+                        "liability": "129231.03575328"
+                    }
+                ]
+            }
+        },
+        {
+            "audit_partition_id": "SBPOL20221216-CHSB",
+            "liability": "117.1728051",
+            "proof": {
+                "leaf_index": 27,
+                "nonce": "2d7f7c7e381855f0269910b0ad7620ba669fe6dee39c231489c50988cd45f6f2",
+                "witnesses": [
+                    {
+                        "digest": "660e22f39b5686d695f6bb4214d77214e386e3b558978f82cd73fc9b80121d3c",
+                        "liability": "308.4"
+                    },
+                    {
+                        "digest": "819e4086acd03e4060203a6a032cbc003e29e67a63192db70066431d48c08591",
+                        "liability": "40996.175669"
+                    },
+                    {
+                        "digest": "5326b8e1e7105420023fffd4e153afe3e0a00ba5dd407dcc19aacaadd7a98d5f",
+                        "liability": "129.7313497639"
+                    },
+                    {
+                        "digest": "a3dbe04188c9f81a510dab4f171a66e5c6d55a0cf3d8d14b0f7ff746c2440e96",
+                        "liability": "11597.0267732161"
+                    },
+                    {
+                        "digest": "fcf568218e02c1efaeb1078b4c1c50d3aa6297b7b06836cf9b432470cbbe8d61",
+                        "liability": "138672.38585714"
+                    },
+                    {
+                        "digest": "af8d0c9ce86546f00aea85187325e161fbfc18b43958babb6f50e28958daa89a",
+                        "liability": "129231.03575328"
+                    }
+                ]
+            }
+        },
+        {
+            "audit_partition_id": "SBPOL20221216-CHSB",
+            "liability": "59.6859717639",
+            "proof": {
+                "leaf_index": 29,
+                "nonce": "b8a34b33a88a8c604b052ef99525315ee6f9c4cab768b7f6d4df4735abea1587",
+                "witnesses": [
+                    {
+                        "digest": "3d831d93a333b6ecfa156ed6468263f985b746b86ef2ecfbed977c32b3b0fcc7",
+                        "liability": "16.875536"
+                    },
+                    {
+                        "digest": "4d2d40f655fa0b52cf533652fbd52aa49bd89757302b8d2dd16f72ba21ed4ad3",
+                        "liability": "53.169842"
+                    },
+                    {
+                        "digest": "cbdcacf24584d5188413b6c6e9f5c3487b1b6a1fbbfce986b2e72c1d364100cf",
+                        "liability": "41421.7484741"
+                    },
+                    {
+                        "digest": "a3dbe04188c9f81a510dab4f171a66e5c6d55a0cf3d8d14b0f7ff746c2440e96",
+                        "liability": "11597.0267732161"
+                    },
+                    {
+                        "digest": "fcf568218e02c1efaeb1078b4c1c50d3aa6297b7b06836cf9b432470cbbe8d61",
+                        "liability": "138672.38585714"
+                    },
+                    {
+                        "digest": "af8d0c9ce86546f00aea85187325e161fbfc18b43958babb6f50e28958daa89a",
+                        "liability": "129231.03575328"
+                    }
+                ]
+            }
+        }
+    ],
+    "user_id": "200cc5c7039f3f13dc75fd41aac92dd5"
+}

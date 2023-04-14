@@ -1,0 +1,14 @@
+{
+  "extends": "@tsconfig/node16/tsconfig.json",
+  "compilerOptions": {
+    "module": "commonjs",
+    "strict": true,
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "outDir": "dist",
+    "lib": ["es2021", "DOM"]
+  },
+  "include": ["*"],
+  "exclude": ["node_modules", "jest.config.ts"]
+}

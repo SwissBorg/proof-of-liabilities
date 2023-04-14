@@ -1,0 +1,226 @@
+{
+    "liabilities": [
+        {
+            "audit_partition_id": "SBPOL20230111-PLN",
+            "liability": "2.4",
+            "proof": {
+                "leaf_index": 0,
+                "nonce": "bcc574ffb40d9bf29e1698e77cfed48c08e1d3fc65d0572ee80562d0b063f7f3",
+                "witnesses": [
+                    {
+                        "digest": "7e2e24ee9ee127c268bdb9a19ee8fa650e98c2fcaacf1bc3f8fa1c703e3ca63e",
+                        "liability": "7.6"
+                    }
+                ]
+            }
+        },
+        {
+            "audit_partition_id": "SBPOL20230111-PLN",
+            "liability": "7.6",
+            "proof": {
+                "leaf_index": 1,
+                "nonce": "cbdc0b6c0c2c175d14daec3f13040a1e33ce82a0dcbd2faf75aff85fa2629a7b",
+                "witnesses": [
+                    {
+                        "digest": "04ef2a8e301124b2cb5212ffd5c9e1af9272c031c80bc7dc7025521d1490941d",
+                        "liability": "2.4"
+                    }
+                ]
+            }
+        },
+        {
+            "audit_partition_id": "SBPOL20230111-CHSB",
+            "liability": "4.158783",
+            "proof": {
+                "leaf_index": 35,
+                "nonce": "d9822a2ba92e736468d96497ff9505e9ccfcffaa23d73f121227815df04d9407",
+                "witnesses": [
+                    {
+                        "digest": "fe5fb73757f5bca519c8d0492443bfe4ff5f9749377ef3820571fae7b287c34b",
+                        "liability": "29324.01816"
+                    },
+                    {
+                        "digest": "9e2e9b7e759db80c700ed965b38f67fe707e84f30997e09998ce0f5e3ed00be8",
+                        "liability": "630.317024"
+                    },
+                    {
+                        "digest": "0e5ea2c456f64d9fdcccae91db736094f9f8594d42908b0a502cc08a0f19c4fc",
+                        "liability": "44385.5805254"
+                    },
+                    {
+                        "digest": "ca51e623da8a0a08c7ec6c3e19ed61158461ffb5eaf2dd78bd56052d39a79f57",
+                        "liability": "8342.3426474"
+                    },
+                    {
+                        "digest": "16fc8b9f7c25b064311e4d96852c5db59eb7884aa8a516e1e088314e747c5ec5",
+                        "liability": "91266.02591916"
+                    },
+                    {
+                        "digest": "cac45fd0eca4ab9e8fb25e2f2a0d2f98b358fd0c0f29609bf047e6c7cc5cb0f0",
+                        "liability": "147099.48514854"
+                    }
+                ]
+            }
+        },
+        {
+            "audit_partition_id": "SBPOL20230111-CHSB",
+            "liability": "4.927951",
+            "proof": {
+                "leaf_index": 43,
+                "nonce": "0d81fe90c857918b769b7afae64a3871372e1ffd037be3478be59f814890eb74",
+                "witnesses": [
+                    {
+                        "digest": "1484f255845f638b7f08b0815229bc9e635e1e492ed9a81ce9f94abcb0fdf210",
+                        "liability": "3254.47044"
+                    },
+                    {
+                        "digest": "19eed4c7a4918e18deb1ecfff198d30dafb7a6b41f88428349581a1c1f1f6319",
+                        "liability": "4440.815241"
+                    },
+                    {
+                        "digest": "a383c229e91721fbe2e9776e6861984362b0daedf3f9ff316ce59d614da93649",
+                        "liability": "642.1290154"
+                    },
+                    {
+                        "digest": "aa83f57469786ce9970d8e5b7c1274a1bb06d2f3bd6885a2d7e208d0cb4f2bf7",
+                        "liability": "74344.0744924"
+                    },
+                    {
+                        "digest": "16fc8b9f7c25b064311e4d96852c5db59eb7884aa8a516e1e088314e747c5ec5",
+                        "liability": "91266.02591916"
+                    },
+                    {
+                        "digest": "cac45fd0eca4ab9e8fb25e2f2a0d2f98b358fd0c0f29609bf047e6c7cc5cb0f0",
+                        "liability": "147099.48514854"
+                    }
+                ]
+            }
+        },
+        {
+            "audit_partition_id": "SBPOL20230111-CHSB",
+            "liability": "35.727516",
+            "proof": {
+                "leaf_index": 63,
+                "nonce": "68968eeddf526517b7fb24b73b0745002c11215ab2f8be05a4327506affebfd1",
+                "witnesses": [
+                    {
+                        "digest": "58bb7fb4bc13a3b121baee136e222977bfe4fedf2134f8295583b3e3ff1d38b2",
+                        "liability": "2289.8"
+                    },
+                    {
+                        "digest": "ff0c62164485d9fa5cc4ba3c1aea2e4dae83991b8cde528f3e83a64491c68712",
+                        "liability": "127.13239"
+                    },
+                    {
+                        "digest": "2f39b0cb67b3c3519cefba15c38931185700d1f7c205fae9eb178db5e11a34dd",
+                        "liability": "8812.119066"
+                    },
+                    {
+                        "digest": "f70dd50cc0290be680f7f2c0522c902c383ce7e74db52cf09f8ffe706c6b9546",
+                        "liability": "80001.24694716"
+                    },
+                    {
+                        "digest": "44f8589735b539bcf3aff9d0badab35225a2ada4b2e1ee5e1847daedb9a551ef",
+                        "liability": "82686.4171398"
+                    },
+                    {
+                        "digest": "cac45fd0eca4ab9e8fb25e2f2a0d2f98b358fd0c0f29609bf047e6c7cc5cb0f0",
+                        "liability": "147099.48514854"
+                    }
+                ]
+            }
+        },
+        {
+            "audit_partition_id": "SBPOL20230111-EUR",
+            "liability": "218.9",
+            "proof": {
+                "leaf_index": 11,
+                "nonce": "f2fc22b0400ec4b8ca9e12c9b657cc3e9ca09d84690c1ae46ebc8dc038ffd65b",
+                "witnesses": [
+                    {
+                        "digest": "40349835d02e9d4a499f8afebcf083b8b22b797017a2e0903db624eb9f49adcd",
+                        "liability": "6.0"
+                    },
+                    {
+                        "digest": "941effc1743216fc8a7acbe8755af9134b985701f4d0059bdf9f77d2dbc078af",
+                        "liability": "545.1"
+                    },
+                    {
+                        "digest": "ab7db6280cccf4bf3a1ee6a5909dc8c5a7e6466e46cbcf902b2b009aad068fb0",
+                        "liability": "23279"
+                    },
+                    {
+                        "digest": "c6df5265ed1587b8f04d3f5870de3d137a72f5b35c9f4556bee98e1ffb91190a",
+                        "liability": "399955.6374637866782"
+                    },
+                    {
+                        "digest": "dda82bc6143dbe42125afc6d15ea391a60942f36c2679d5a953aa676a5b147f7",
+                        "liability": "21724.7817063840968"
+                    }
+                ]
+            }
+        },
+        {
+            "audit_partition_id": "SBPOL20230111-EUR",
+            "liability": "1946.3",
+            "proof": {
+                "leaf_index": 18,
+                "nonce": "487cacb18ce9145505da59ff8960fb77e591b1c4073763703faed9ebd0dee275",
+                "witnesses": [
+                    {
+                        "digest": "75c2ed85ab3ca12aa96dfbe44526207f3c633c8a76e616616e21e7ea53bdaefc",
+                        "liability": "1"
+                    },
+                    {
+                        "digest": "9d144d9070d55658ff6ea94975fe59ca1123882b60b676eb1093c544642551ae",
+                        "liability": "1540.5"
+                    },
+                    {
+                        "digest": "dda6345540a00b389321eba705a4a796db895968e5f8faf0e0627ebfc480df8e",
+                        "liability": "18047.6"
+                    },
+                    {
+                        "digest": "e16529a758dfe593b1671296ade31f072901297832fc4be9df35ec353a6b7fb4",
+                        "liability": "189.3817063840968"
+                    },
+                    {
+                        "digest": "3590845c55e760560ea11e60d15676029ee73a2097dc3c81f58368bff0901792",
+                        "liability": "424004.6374637866782"
+                    }
+                ]
+            }
+        },
+        {
+            "audit_partition_id": "SBPOL20230111-EUR",
+            "liability": "12392.8",
+            "proof": {
+                "leaf_index": 23,
+                "nonce": "de28ac38d908c43c233dcd5c03c38412f30335691251d8def6f096a22748b723",
+                "witnesses": [
+                    {
+                        "digest": "03da496fe96a7920f29ddbc9925ea9b8d991b222d8082259c48dd8a04a53e9c3",
+                        "liability": "344.5"
+                    },
+                    {
+                        "digest": "e83b9373598f2595a69fd180755e38b22771ec553eaee88357b4709696c291f9",
+                        "liability": "5310.3"
+                    },
+                    {
+                        "digest": "b664835310cf06797d21b98f5998cbf189cf9acfd969b6fbc2706861b68b911c",
+                        "liability": "3487.8"
+                    },
+                    {
+                        "digest": "e16529a758dfe593b1671296ade31f072901297832fc4be9df35ec353a6b7fb4",
+                        "liability": "189.3817063840968"
+                    },
+                    {
+                        "digest": "3590845c55e760560ea11e60d15676029ee73a2097dc3c81f58368bff0901792",
+                        "liability": "424004.6374637866782"
+                    }
+                ]
+            }
+        }
+    ],
+    "audit_id": "SBPOL20230111",
+    "user_id": "200f220827e9371b68c790980b015e14"
+}
