@@ -32,5 +32,7 @@ yarn
 ### Self Verification
 
 ```bash
-yarn run self_verification AUDIT_CREDENTIAL_ID AUDIT_ID
+export AUDIT_CREDENTIAL=<Your audit credential>
+export AUDIT_ID=SBPOL20230801
+yarn run self_verification $AUDIT_CREDENTIAL $AUDIT_ID
 ```
