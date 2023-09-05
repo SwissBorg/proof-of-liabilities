@@ -6,6 +6,7 @@ https://swissborg.com/blog/proof-of-liabilities
 
 | Date                    | Audit ID      | Merkle Root Hash                                                   |
 | -                       | -             | -                                                                  |
+| 2023-09-01 20:59:59 UTC | SBPOL20230901 | `4faa70570d3040d30846ee2c9883d40f829ae150de541db296efe72280112255` | 
 | 2023-08-01 20:59:59 UTC | SBPOL20230801 | `9beb400935a7ecb1783fd50df5e08c7d6f29d7013d1dfe50302f7e4fdcf8c55d` |
 | 2023-07-01 20:59:59 UTC | SBPOL20230701 | `b22b844610b0b04b3447c15bc96b679f6e45ae9e6df888922c0d155c8242447d` |
 | 2023-06-01 20:59:59 UTC | SBPOL20230601 | `b27a0b7633a5fe8337170032ef8a27d9ffe975f6f9e5540ff53616362a26880d` |
