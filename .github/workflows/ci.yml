@@ -7,20 +7,25 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
+      - name: Enable Corepack
+        run: corepack enable
       - name: Setup Node.js environment
         uses: actions/setup-node@v3.7.0
         with:
           node-version: ">=18.0.0"
       - name: Test
         run: yarn install && yarn test
+
   format:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v2
+      - name: Enable Corepack
+        run: corepack enable
       - name: Setup Node.js environment
         uses: actions/setup-node@v3.7.0
         with:
           node-version: ">=18.0.0"
       - name: Test
-        run: yarn prettier --check .
+        run: yarn install && yarn prettier --check .
