@@ -23,8 +23,9 @@ curl "https://api.swissborg.io/v1/solvency/audit?limit=5&offset=0" | jq '.audits
 ## Self Verification
 
 ### Requirements
-* nodejs v18+
-* yarn
+
+- nodejs v18+
+- yarn 3.6+
 
 ### Installation
 
