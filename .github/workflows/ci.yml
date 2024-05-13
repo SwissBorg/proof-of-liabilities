@@ -13,7 +13,6 @@ jobs:
         uses: actions/setup-node@v3.7.0
         with:
           node-version: ">=18.0.0"
-          cache: 'yarn'
       - name: Test
         run: yarn install && yarn test
 
@@ -28,6 +27,5 @@ jobs:
         uses: actions/setup-node@v3.7.0
         with:
           node-version: ">=18.0.0"
-          cache: 'yarn'
       - name: Test
         run: yarn install && yarn prettier --check .
