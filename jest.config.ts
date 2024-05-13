@@ -84,7 +84,7 @@ export default {
     "ts",
     "tsx",
     "json",
-    "node"
+    "node",
   ],
 
   // A map from regular expressions to module names or to arrays of module names that allow to stub out resources with a single module
@@ -156,7 +156,7 @@ export default {
   testMatch: [
     "**/__tests__/**/*.[jt]s?(x)",
     "**/?(*.)+(spec|test).[tj]s?(x)",
-    "tests.ts"
+    "tests.ts",
   ],
 
   // An array of regexp pattern strings that are matched against all test paths, matched tests are skipped
