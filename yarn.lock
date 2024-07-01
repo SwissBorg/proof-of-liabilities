@@ -1009,12 +1009,21 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:*, @types/node@npm:^20.12.7":
+"@types/node@npm:*":
   version: 20.12.11
   resolution: "@types/node@npm:20.12.11"
   dependencies:
     undici-types: ~5.26.4
   checksum: 0cc06bb69cd8150e96fcf65fa3d7f2eeebedf110a99e1834a7fa55bd6c04e7b6d73f74321a2acfc569ca300c0b88d8e1b702ce245b3802f6e5f6a8987fef451a
+  languageName: node
+  linkType: hard
+
+"@types/node@npm:^20.14.9":
+  version: 20.14.9
+  resolution: "@types/node@npm:20.14.9"
+  dependencies:
+    undici-types: ~5.26.4
+  checksum: 5e9eda1ac8c6cc6bcd1063903ae195eaede9aad1bdad00408a919409cfbcdd2d6535aa3d50346f0d385528f9e03dafc7d1b3bad25aedb1dcd79a6ad39d06c35d
   languageName: node
   linkType: hard
 
@@ -4309,7 +4318,7 @@ __metadata:
     "@jest/globals": ^29.6.4
     "@tsconfig/node16": ^16.1.3
     "@types/jest": ^29.5.12
-    "@types/node": ^20.12.7
+    "@types/node": ^20.14.9
     decimal.js: ^10.4.2
     eslint: 8.57.0
     eslint-config-prettier: 9.1.0
